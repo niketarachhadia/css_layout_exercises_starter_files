@@ -1,0 +1,41 @@
+main{
+   width: 800px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0;
+}
+
+
+.upper{
+  border: 1px solid black;
+  width: 50%;
+  height: 200px;
+  display: inline-block;
+  font-size: 0;
+  box-sizing: border-box;
+}
+.upper-one{
+  background-color: green;
+}
+.upper-two{
+  background-color: blue;
+}
+
+.lower{
+  border: 1px solid black;
+  width: 33.33%;
+  height: 300px;
+  display: inline-block;
+  font-size: 0;
+  box-sizing: border-box;
+}
+.lower-one{
+  background-color: gray;
+}
+.lower-two{
+  background-color: black;
+  }
+.lower-three{
+  background-color: orange;
+}
